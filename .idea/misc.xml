@@ -5,6 +5,13 @@
       <map>
         <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/activity_register.xml" value="0.2677083333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/activity_user_menu.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/fragment_family.xml" value="0.2421875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/fragment_gestion.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/fragment_map.xml" value="0.25" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/layout/fragment_map2.xml" value="0.2421875" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/menu/bottom_navigation.xml" value="0.22" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/FamilyTracker/app/src/main/res/menu/mobile_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

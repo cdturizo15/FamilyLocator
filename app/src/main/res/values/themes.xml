@@ -13,4 +13,10 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="BottomNavigation">
+        <item name="android:background">@color/purple_200</item>
+        <item name="itemIconTint">@color/purple_500</item>
+        <item name="itemTextColor">@color/purple_700</item>
+    </style>
+
 </resources>
