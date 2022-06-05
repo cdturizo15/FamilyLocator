@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".JoinFamilyActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tituloJoinFamily"
+        android:text="Unete a una familia"
+        android:textSize="36sp"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="200dp"
+        />
+    <com.goodiebag.pinview.Pinview
+        android:id="@+id/pinInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tituloJoinFamily"
+        app:pinLength="6"
+        app:pinWidth="35dp"
+        app:pinHeight="40dp"
+        app:cursorVisible="true"
+        app:forceKeyboard="true"
+        app:inputType="number"
+        android:layout_margin="20dp"
+        />
+    <com.google.android.material.button.MaterialButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/botonEnviar"
+        android:layout_below="@id/pinInput"
+        android:layout_margin="20dp"
+        android:text="enviar"
+    />
+</RelativeLayout>

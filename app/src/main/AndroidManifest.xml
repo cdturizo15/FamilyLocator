@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FamilyTracker">
         <activity
+            android:name=".JoinFamilyActivity"
+            android:exported="false" />
+        <activity
             android:name=".UserMenu"
             android:exported="false" />
         <activity
